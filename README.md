@@ -2,4 +2,4 @@
 
 A Simple One Page Youtube Clone made using HTML and CSS
 
-![Screenshot_20230605_195838](https://github.com/harshit-sharmaaa/Youtube-Clone/assets/121124691/1978116b-4e49-4828-89c3-ff74841a3bc7)
+![image](https://github.com/harshit-sharmaaa/Youtube-Clone/assets/121124691/966636f7-9133-4cb8-b721-7deb5158e878)
